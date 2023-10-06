@@ -23,6 +23,7 @@ namespace MsTestMoodAnalyser
             {
                 return "HAPPY";
             }
+
         }
     }
 }
